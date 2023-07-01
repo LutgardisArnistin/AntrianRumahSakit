@@ -1,3 +1,11 @@
+Website Antrian Rumah Sakit
+wesite ini merupakan website yang bertujuan untuk membantu pasien dalam melakukan proses antrian di rumah sakit dan membantu petugas Rumah Sakit untuk mendata pasien
+* Featur website yang tersedia :
+- Login
+- Dokter
+- Home
+- About
+
 Free Download Source Code "Online Doctors Management System"
 
 FIRST Download
